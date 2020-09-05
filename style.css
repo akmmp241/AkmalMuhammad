@@ -10,6 +10,7 @@ body {
 .container {
     font: 16px/28px arial, sans-serif;
     width: 960px;
+    height: 100%;
     margin: auto;
     color: #333;
     border-left: 3px solid salmon;
